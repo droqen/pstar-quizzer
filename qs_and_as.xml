@@ -1,0 +1,2129 @@
+<trouble>2.01</trouble>
+<trouble>2.02</trouble>
+<trouble>2.03</trouble>
+<trouble>2.04</trouble>
+<trouble>2.08</trouble>
+<trouble>3.07</trouble>
+<trouble>3.08</trouble>
+<trouble>3.11</trouble>
+<trouble>3.12</trouble>
+<trouble>3.27</trouble>
+<trouble>3.28</trouble>
+<trouble>3.29</trouble>
+<trouble>4.08</trouble>
+<trouble>5.03</trouble>
+<trouble>5.04</trouble>
+<trouble>5.05</trouble>
+<trouble>5.07</trouble>
+<trouble>5.11</trouble>
+<trouble>6.04</trouble>
+<trouble>6.06</trouble>
+<trouble>6.10</trouble>
+<trouble>6.12</trouble>
+<trouble>6.18</trouble>
+<trouble>6.20</trouble>
+<trouble>7.14</trouble>
+<trouble>8.05</trouble>
+<trouble>8.07</trouble>
+<trouble>8.08</trouble>
+<trouble>8.09</trouble>
+<trouble>8.12</trouble>
+<trouble>8.13</trouble>
+<trouble>9.01</trouble>
+<trouble>9.02</trouble>
+<trouble>9.03</trouble>
+<trouble>9.04</trouble>
+<trouble>9.05</trouble>
+<trouble>9.06</trouble>
+<trouble>9.08</trouble>
+<trouble>11.07</trouble>
+<trouble>11.08</trouble>
+<trouble>11.09</trouble>
+<trouble>11.10</trouble>
+<trouble>11.11</trouble>
+<trouble>11.12</trouble>
+<trouble>12.03</trouble>
+<trouble>12.04</trouble>
+<trouble>12.07</trouble>
+<trouble>12.08</trouble>
+<trouble>12.09</trouble>
+<trouble>12.10</trouble>
+<trouble>12.11</trouble>
+<trouble>12.12</trouble>
+<trouble>12.13</trouble>
+<trouble>12.14</trouble>
+<trouble>12.15</trouble>
+<trouble>12.16</trouble>
+<trouble>12.17</trouble>
+<trouble>12.18</trouble>
+<trouble>12.19</trouble>
+<trouble>12.21</trouble>
+<trouble>13.01</trouble>
+<trouble>13.02</trouble>
+<trouble>13.03</trouble>
+<trouble>13.04</trouble>
+<trouble>13.06</trouble>
+<trouble>13.07</trouble>
+<trouble>13.08</trouble>
+<question>
+	<number>1.01</number>
+	<qtext>Which statement is true with regaxrd to aircraft converging at approximately the same altitude?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> A jet airliner has the right of way over all other aircraft.</answer1>
+		<answer2> An aircraft towing objects has the right of way over all power-driven heavier-than-air aircraft.</answer2>
+		<answer3> An aeroplane has the right of way over all other aircraft which are converging from the left.</answer3>
+		<answer4> Aeroplanes towing gliders must give way to helicopters.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.02</number>
+	<qtext>When two aircraft are converging at approximately the same altitude</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> both aircraft shall alter heading to the left.</answer1>
+		<answer2> the aircraft on the right shall avoid the other by descending.</answer2>
+		<answer3> the aircraft that has the other on its right shall give way.</answer3>
+		<answer4> the aircraft that has the other on its left shall give way.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.03</number>
+	<qtext>When two aircraft are converging at approximately the same altitude, which statement applies?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Gliders shall give way to helicopters.</answer1>
+		<answer2> Aeroplanes shall give way to power-driven heavier-than-air aircraft.</answer2>
+		<answer3> Gliders shall give way to aeroplanes.</answer3>
+		<answer4> Power-driven heavier-than-air aircraft shall give way to gliders.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.04</number>
+	<qtext>When two aircraft are converging at approximately the same altitude, which statement applies?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Gliders shall give way to helicopters.</answer1>
+		<answer2> Aeroplanes shall give way to helicopters.</answer2>
+		<answer3> Helicopters shall give way to aeroplanes.</answer3>
+		<answer4> Helicopters shall give way to gliders.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.05</number>
+	<qtext>When two aircrafts are converging at approximately the same altitude, which statement applies?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Gliders shall give way to helicopters.</answer1>
+		<answer2> Aeroplanes shall give way to helicopters.</answer2>
+		<answer3> Helicopters shall give way to aeroplanes.</answer3>
+		<answer4> Gliders shall give way to balloons.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.06</number>
+	<qtext>When converging at approximately the same altitude</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> balloons shall give way to hang gliders.</answer1>
+		<answer2> aeroplanes towing gliders shall give way to balloons.</answer2>
+		<answer3> balloons shall give way to gliders.</answer3>
+		<answer4> balloons shall give way to airships.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.07</number>
+	<qtext>When two power-driven heavier-than-air aircraft are converging at approximately the same altitude,</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> the one on the left has the right of way.</answer1>
+		<answer2> both shall alter heading to the left.</answer2>
+		<answer3> the one on the right has the right of way.</answer3>
+		<answer4> the one on the right shall give way by descending.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.08</number>
+	<qtext>When two aircraft are approaching head-on or approximately so and there is danger of collision, each pilot shall</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> decrease airspeed.</answer1>
+		<answer2> increase airspeed.</answer2>
+		<answer3> alter heading to the right.</answer3>
+		<answer4> alter heading to the left.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.09</number>
+	<qtext>When overtaking an aircraft at your 12 o’clock position, at your altitude, you should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> climb.</answer1>
+		<answer2> descend.</answer2>
+		<answer3> alter heading to the right.</answer3>
+		<answer4> alter heading to the left.</answer4>
+	</answers>
+</question>
+<question>
+	<number>1.10</number>
+	<qtext>Two aircraft are on approach to land, the aircraft at the higher altitude shall</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> have the right of way.</answer1>
+		<answer2> overtake the lower aircraft on the left.</answer2>
+		<answer3> give way.</answer3>
+		<answer4> complete a 360° turn to the right.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.01</number>
+	<qtext>A series of green flashes directed at an aircraft means respectively</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> in flight: cleared to land; on the ground: cleared to taxi.</answer1>
+		<answer2> in flight: return for landing; on the ground: cleared for take-off.</answer2>
+		<answer3> in flight: return for landing; on the ground: cleared to taxi.</answer3>
+		<answer4> in flight: cleared to land; on the ground: cleared for take-off.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.02</number>
+	<qtext>A steady red light directed at an aircraft means respectively</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> in flight: give way to other aircraft and continue circling; on the ground: stop.</answer1>
+		<answer2> in flight: give way to other aircraft and continue circling; on the ground: taxi clear of landing area in use.</answer2>
+		<answer3> in flight: airport unsafe do not land; on the ground: taxi clear of landing area in use.</answer3>
+		<answer4> in flight: airport unsafe do not land; on the ground: stop.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.03</number>
+	<qtext>A series of red flashes directed at an aircraft means respectively</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> in flight: airport unsafe, do not land; on the ground: taxi clear of landing area in use.</answer1>
+		<answer2> in flight: give way to other aircraft and continue circling; on the ground: stop.</answer2>
+		<answer3> in flight: do not land for time being; on the ground: return to starting point on airport.</answer3>
+		<answer4> in flight: you are in prohibited area, alter course; on the ground: stop.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.04</number>
+	<qtext>A steady green light directed at an aircraft means respectively</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> in flight: cleared to land; on the ground: cleared to taxi.</answer1>
+		<answer2> in flight: return for landing; on the ground: cleared to taxi.</answer2>
+		<answer3> in flight: return for landing; on the ground: cleared for take-off.</answer3>
+		<answer4> in flight: cleared to land; on the ground: cleared for take-off.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.05</number>
+	<qtext>A flashing white light directed at an aircraft on the manoeuvring area of an airport means</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> stop.</answer1>
+		<answer2> return to starting point on the airport.</answer2>
+		<answer3> cleared to taxi.</answer3>
+		<answer4> taxi clear of landing area in use.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.06</number>
+	<qtext>Blinking runway lights advises vehicles and pedestrians to</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> return to the apron.</answer1>
+		<answer2> vacate the runways immediately.</answer2>
+		<answer3> be aware that an emergency is in progress; continue with caution.</answer3>
+		<answer4> be aware that an emergency is in progress; hold your position.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.07</number>
+	<qtext>Chrome yellow and black strips painted on pylons or on the roof of a building identifies</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> an area where explosives are in use.</answer1>
+		<answer2> a fur farm.</answer2>
+		<answer3> an artillery range.</answer3>
+		<answer4> an open pit mine.</answer4>
+	</answers>
+</question>
+<question>
+	<number>2.08</number>
+	<qtext>Pilots should not overfly reindeer or caribou at an altitude of less than</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 2,500 feet AGL.</answer1>
+		<answer2> 2,000 feet AGL.</answer2>
+		<answer3> 1,500 feet AGL.</answer3>
+		<answer4> 1,000 feet AGL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.01</number>
+	<qtext>When making initial contact with a Canadian ATC unit, the pilot of aircraft C-GFLU should transmit the manufacturer’s name or the type of aircraft, followed by registration as</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> Lima – Uniform.</answer1>
+		<answer2> Foxtrot – Lima – Uniform.</answer2>
+		<answer3> Golf – Foxtrot – Lima – Uniform.</answer3>
+		<answer4> Charlie – Golf – Foxtrot – Lima – Uniform.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.02</number>
+	<qtext>When making initial contact with a Canadian ATC unit, the pilot of aircraft C-FBSQ should transmit the registration as</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> FBSQ.</answer1>
+		<answer2> Fox, Baker, Sugar, Queen.</answer2>
+		<answer3> Foxtrot, Bravo, Sierra, Québec.</answer3>
+		<answer4> Bravo, Sierra, Québec.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.03</number>
+	<qtext>After a Canadian privately registered aircraft has made initial contact with an ATS unit, which items may be omitted from subsequent transmissions? The aircraft type and</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> any registration letters omitted by ATS in the last communication.</answer1>
+		<answer2> the first two letters of the registration, if initiated by ATS.</answer2>
+		<answer3> the first three letters of the registration.</answer3>
+		<answer4> the phonetic equivalents.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.04</number>
+	<qtext>On initial radio contact with an ATS unit the pilot shall transmit the</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> manufacturer’s name or type of aircraft and last four letters of the registration in phonetics.</answer1>
+		<answer2> last three letters of the registration in phonetics.</answer2>
+		<answer3> whole registration in phonetics.</answer3>
+		<answer4> type of aircraft and the last three letters of the registration in phonetics.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.05</number>
+	<qtext>ATIS is normally provided</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> to replace the FSS.</answer1>
+		<answer2> to relieve frequency congestion.</answer2>
+		<answer3> for the rapid updating of weather forecasts.</answer3>
+		<answer4> only when VFR conditions exist at airports.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.06</number>
+	<qtext>Where ATIS is available the information which should be included on first contact with ATC is the</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> phrase “with the numbers”.</answer1>
+		<answer2> phrase “ATIS received”.</answer2>
+		<answer3> phrase “with the information”.</answer3>
+		<answer4> ATIS phonetic identifier.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.07</number>
+	<qtext>Pilots operating VFR en route in uncontrolled airspace should continuously monitor . . . . . and 121.5 MHZ, when practical and not in communication on the MF or ATF frequency.</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 126.7 MHz</answer1>
+		<answer2> 123.2 MHz</answer2>
+		<answer3> 122.8 MHz</answer3>
+		<answer4> 122.2 MHz</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.08</number>
+	<qtext>En route aircraft should, whenever possible, maintain a listening watch for aircraft in distress on</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> the receiver mode of the ELT.</answer1>
+		<answer2> 121.5 MHz on the aircraft receiver.</answer2>
+		<answer3> 121.5 MHz during the first 5 minutes of each hour.</answer3>
+		<answer4> the voice frequency of the navigation aid in use.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.09</number>
+	<qtext>MF procedures such as frequency, distance and altitude to follow are given in the</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> Canada Flight Supplement (CFS) or Canada Water Aerodrome Supplement (CWAS).</answer1>
+		<answer2> Designated Airspace Handbook (DAH).</answer2>
+		<answer3> Transport Canada Aeronautical Information Manual (TC AIM) - TP 14371.</answer3>
+		<answer4> Flight Training Manual (FTM) - TP1102.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.10</number>
+	<qtext>Pilots broadcasting on a MF where no ground station is in operation should direct their transmission to the</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> aerodrome UNICOM.</answer1>
+		<answer2> closest ATC unit.</answer2>
+		<answer3> aerodrome traffic.</answer3>
+		<answer4> first aircraft heard on the frequency.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.11</number>
+	<qtext>Pilots operating in VMC and intending to land at aerodromes where no UNICOM exists, should broadcast their intentions on the ATF of</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 121.5 MHz.</answer1>
+		<answer2> 123.2 MHz.</answer2>
+		<answer3> 123.45 MHz.</answer3>
+		<answer4> 126.7 MHz.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.12</number>
+	<qtext>If a MF is in use, pilots departing VFR shall monitor that frequency until</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> beyond the specified distance or altitude.</answer1>
+		<answer2> established en route.</answer2>
+		<answer3> established at cruise altitude.</answer3>
+		<answer4> clear of the aerodrome circuit pattern.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.13</number>
+	<qtext>A pilot is cleared to taxi to the runway in use without a hold short clearance. To get there, the aircraft must cross two taxiways and one runway. This authorizes the pilot to taxi to</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the runway in use, but must hold short.</answer1>
+		<answer2> the runway in use, but further clearance is required to cross each taxiway and runway en route.</answer2>
+		<answer3> position on the runway without further clearance.</answer3>
+		<answer4> the runway in use, but further clearance is required to cross the other runway.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.14</number>
+	<qtext>Ground control authorizes “GOLF ALPHA BRAVO CHARLIE TAXI RUNWAY 29 HOLD SHORT OF RUNWAY 04”. The pilot should acknowledge this by replying “GOLF ALPHA BRAVO CHARLIE TO</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> RUNWAY 04”.</answer1>
+		<answer2> RUNWAY 29”.</answer2>
+		<answer3> HOLD SHORT OF 29”.</answer3>
+		<answer4> HOLD SHORT OF 04”.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.15</number>
+	<qtext>When a clearance for an “immediate take-off” is accepted, the pilot shall</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> back-track on the runway to use the maximum available length for take-off.</answer1>
+		<answer2> taxi to a full stop in position on the runway and take off without further clearance.</answer2>
+		<answer3> taxi onto the runway and take off in one continuous movement.</answer3>
+		<answer4> complete the pre-take-off check before taxiing onto the runway and taking off.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.16</number>
+	<qtext>A pilot flying a heading of 270°, receives the following message from ATC, “Traffic 2 o’clock, 5 miles, eastbound”. This information indicates the traffic is</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 60° to the left, altitude unknown.</answer1>
+		<answer2> 60° to the right, altitude unknown.</answer2>
+		<answer3> 90° to the right, at same altitude.</answer3>
+		<answer4> 90° to the left, at same altitude.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.17</number>
+	<qtext>A pilot receives the following ATC clearance “CLEARED TO LAND, TURN RIGHT AT THE FIRST INTERSECTION”. The pilot should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> land and attempt to turn off even though the speed is considered too high to safely accomplish the turn.</answer1>
+		<answer2> complete a touch-and-go if it is not possible to safely accomplish the turn.</answer2>
+		<answer3> land and turn off at the nearest intersection possible commensurate with safety.</answer3>
+		<answer4> land and do a 180° turn and taxi back to clear the runway at the required intersection.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.18</number>
+	<qtext>The radiotelephone distress signal to indicate serious and/or imminent danger requiring immediate assistance is</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> MAYDAY, MAYDAY, MAYDAY.</answer1>
+		<answer2> PAN PAN, PAN PAN, PAN PAN.</answer2>
+		<answer3> SECURITY, SECURITY, SECURITY.</answer3>
+		<answer4> EMERGENCY, EMERGENCY, EMERGENCY</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.19</number>
+	<qtext>The radiotelephone urgency signal to indicate a condition concerning the safety of an aircraft, vehicle or of some person on board which does not require immediate assistance is</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> MAYDAY, MAYDAY, MAYDAY.</answer1>
+		<answer2> PAN PAN, PAN PAN, PAN PAN.</answer2>
+		<answer3> EMERGENCY, EMERGENCY, EMERGENCY.</answer3>
+		<answer4> URGENCY, URGENCY, URGENCY.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.20</number>
+	<qtext>What should be included along with the call sign of the aircraft and time, to indicate cancellation of a distress message?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> MAYDAY (three times), ALL STATIONS, DISTRESS TRAFFIC ENDED, OUT.</answer1>
+		<answer2> MAYDAY (once), HELLO ALL STATIONS (three times), THIS IS (the call sign of the station transmitting the message, the filing time of the message, the call sign of the station in distress (once)), SEELONCE FEENEE, OUT.</answer2>
+		<answer3> MAYDAY CANCELLED (three times).</answer3>
+		<answer4> ALL STATIONS (three times), EMERGENCY OVER.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.21</number>.
+	
+	
+	<qtext> A departing flight will normally remain on tower frequency until</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the flight is 2,000 feet AGL.</answer1>
+		<answer2> 25 NM from the airport.</answer2>
+		<answer3> 15 NM from the Control Zone.</answer3>
+		<answer4> clear of the Control Zone.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.22</number>
+	<qtext>You advise ATC that you are on the downwind leg. If there is other traffic in the circuit, ATC will then</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> inform you of your number in the approach sequence or other appropriate instructions.</answer1>
+		<answer2> inform you of the runway in use, wind and altimeter.</answer2>
+		<answer3> advise you of all other circuit traffic.</answer3>
+		<answer4> clear you to land.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.23</number>
+	<qtext>A radio equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> replying ‘Roger’.</answer1>
+		<answer2> replying ‘Wilco’.</answer2>
+		<answer3> clicking the microphone button.</answer3>
+		<answer4> transmitting the aircraft call sign.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.24</number>
+	<qtext>An initial call to Timmins FSS should be ‘Timmins</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> radio this is...’</answer1>
+		<answer2> Flight Service Station this is...’</answer2>
+		<answer3> UNICOM this is...’</answer3>
+		<answer4> this is...’</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.25</number>
+	<qtext>A responsibility of a Flight Information Center (FIC) specialist is to provide</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> air traffic control.</answer1>
+		<answer2> flight planning services.</answer2>
+		<answer3> air traffic service in uncontrolled airspace only.</answer3>
+		<answer4> terminal radar service.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.26</number>
+	<qtext>NOTAMs are</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> available at all flight information centres (FIC)</answer1>
+		<answer2> emailed to all pilots.</answer2>
+		<answer3> issued for airport/aerodrome facility closures only.</answer3>
+		<answer4> valid for 24 hours.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.27</number>
+	<qtext>A new or replacing NOTAM without the term “EST” is valid</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> for 48 hours only.</answer1>
+		<answer2> for the day it was issued.</answer2>
+		<answer3> until the End Time quoted in the NOTAM.</answer3>
+		<answer4> until a cancelling NOTAM is issued.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.28</number>
+	<qtext>The term “EST” in the End Time in a new or replacing NOTAM means the NOTAM is valid</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> for an estimated 24 hours.</answer1>
+		<answer2> for an estimated 48 hours.</answer2>
+		<answer3> until the time quoted in the NOTAM.</answer3>
+		<answer4> until a cancelling (NOTAMC) or replacing (NOTAMR) is issued.</answer4>
+	</answers>
+</question>
+<question>
+	<number>3.29</number>
+	<qtext>ATC advises that your radio transmissions are READABILITY THREE this means that your transmissions are</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> readable now and then.</answer1>
+		<answer2> readable with difficulty.</answer2>
+		<answer3> readable.</answer3>
+		<answer4> perfectly readable.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.01</number>
+	<qtext>An airport is</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> an aerodrome with paved runways.</answer1>
+		<answer2> an aerodrome with a control tower.</answer2>
+		<answer3> an uncertified aerodrome.</answer3>
+		<answer4> a certified aerodrome.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.02</number>
+	<qtext>A dry Transport Canada standard wind direction indicator when horizontal indicates a wind speed of at least</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 25 kt.</answer1>
+		<answer2> 15 kt.</answer2>
+		<answer3> 10 kt.</answer3>
+		<answer4> 6 kt.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.03</number>
+	<qtext>No person shall operate any vehicle on any part of an uncontrolled airport used for the movement of aircraft, except in accordance with permission from</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> the operator of the airport.</answer1>
+		<answer2> the airport security officer.</answer2>
+		<answer3> a federal peace officer.</answer3>
+		<answer4> a qualified flying instructor.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.04</number>
+	<qtext>Runways and taxiways or portions thereof that are closed to aircraft are marked by</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> red flags.</answer1>
+		<answer2> horizontal red squares with yellow diagonals.</answer2>
+		<answer3> white “Xs” on runways and yellow “Xs” on taxiways.</answer3>
+		<answer4> white dumbbells.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.05</number>
+	<qtext>The west end of a runway oriented east and west is numbered</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 09.</answer1>
+		<answer2> 90.</answer2>
+		<answer3> 27.</answer3>
+		<answer4> 270.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.06</number>
+	<qtext>Where taxiway holding positions have not been established, aircraft waiting to enter an active runway should normally hold</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> clear of the manoeuvring area.</answer1>
+		<answer2> 50 ft from the edge of the runway.</answer2>
+		<answer3> 150 ft from the edge of the runway.</answer3>
+		<answer4> 200 ft from the edge of the runway.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.07</number>
+	<qtext>The manoeuvring area of an airport is that area</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> normally referred to as the ramp or apron.</answer1>
+		<answer2> which includes the apron, taxiways and runways.</answer2>
+		<answer3> used when taxiing to and from the parking area.</answer3>
+		<answer4> used for taxiing, taking off and landing.</answer4>
+	</answers>
+</question>
+<question>
+	<number>4.08</number>
+	<qtext>Except for the purpose of taking off or landing, an aircraft shall not be flown over an aerodrome at a height of less than</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 2,000 feet AGL.</answer1>
+		<answer2> 1,500 feet AGL.</answer2>
+		<answer3> 1,000 feet AGL.</answer3>
+		<answer4> 500 feet AGL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.01</number>
+	<qtext>Except for ultra-light aeroplanes and balloons, which documents shall be carried on board when flying a radio equipped Canadian privately registered aircraft? Items A, B and
+	Flight Authority (Certificate of Airworthiness or Flight Permit).
+Certificate of Registration.
+Technical Records.
+Crew licences.
+Aircraft Flight Manual or equivalent document.
+Type certificate.
+Aircraft journey log book, where it is planned that the aircraft will land and shutdown at any location other than the point of departure.
+Proof of liability insurance</qtext>
+	<answers>
+		<correct>4</correct>.
+		
+		
+		<answer1> C, D, E, G.</answer1>
+		<answer2> C, D, F, H.</answer2>
+		<answer3> D, E, F, G.</answer3>
+		<answer4> D, E, G, H.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.02</number>
+	<qtext>Taking into account seasonal climatic variations and geographical area, private aeroplanes and helicopters flying VFR 25 NM or more from an aerodrome or operating base may require</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> specified emergency supplies be carried.</answer1>
+		<answer2> a functioning radio capable of two-way radio communication.</answer2>
+		<answer3> the aircraft be multi-engined when passengers are carried.</answer3>
+		<answer4> all of the above</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.03</number>
+	<qtext>A serviceable landing light is required equipment on aircraft</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> carrying passengers at night.</answer1>
+		<answer2> carrying passengers at night except private aircraft under 5,700 kg.</answer2>
+		<answer3> using an unlighted aerodrome.</answer3>
+		<answer4> taking off or landing at night.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.04</number>
+	<qtext>Unless oxygen and oxygen masks as specified in CARs are readily available, no person shall fly unpressurized aircraft above</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> 9,500 feet ASL.</answer1>
+		<answer2> 10,000 feet ASL.</answer2>
+		<answer3> 12,500 feet ASL.</answer3>
+		<answer4> 13,000 feet ASL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.05</number>
+	<qtext>No person shall fly an unpressurized aircraft for more than . . . . . at an altitude between 10,000 and 13,000 feet ASL unless there is readily available to each flight crew member, an oxygen mask and a supply of oxygen.</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 15 minutes</answer1>
+		<answer2> 30 minutes</answer2>
+		<answer3> 1 hour</answer3>
+		<answer4> 2 hours</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.06</number>
+	<qtext>What safety equipment must be available to each person on board a single-engine aircraft which is taking off from or landing on water?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> An approved life raft.</answer1>
+		<answer2> An approved life preserver.</answer2>
+		<answer3> A signal flare.</answer3>
+		<answer4> A signal mirror.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.07</number>
+	<qtext>The International VHF Emergency Frequency is</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 121.5 MHz.</answer1>
+		<answer2> 121.9 MHz.</answer2>
+		<answer3> 122.2 MHz.</answer3>
+		<answer4> 126.7 MHz.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.08</number>
+	<qtext>No pilot shall take off from or land at an aerodrome at night unless the</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> aircraft is equipped with a functioning two-way radio.</answer1>
+		<answer2> aircraft is equipped with a functioning landing light or landing lights.</answer2>
+		<answer3> aerodrome is lighted as prescribed by the Minister.</answer3>
+		<answer4> pilot has completed 3 night landings in the previous 90 days.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.09</number>
+	<qtext>The CARs define an infant passenger as a person</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> weighing less than 30 lb (13.6 kg)</answer1>
+		<answer2> under 3 years of age.</answer2>
+		<answer3> weighing less than 50 lb (22.7 kg) and under 5 years of age.</answer3>
+		<answer4> under 2 years of age.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.10</number>
+	<qtext>When the PIC directs that safety belts be fastened, an infant passenger for which no child restraint system is provided shall be</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> fastened securely in a seat by means of a safety belt.</answer1>
+		<answer2> held securely in the arms of the responsible person whose safety belt shall be fastened.</answer2>
+		<answer3> held securely in the arms of the responsible person and a safety belt shall be fastened about both.</answer3>
+		<answer4> secured by any one of the above methods.</answer4>
+	</answers>
+</question>
+<question>
+	<number>5.11</number>
+	<qtext>Which flight instrument systems and equipment are required on power driven aircraft for day VFR flight? A magnetic direction indicating system or magnetic compass and
+	an airspeed indicator.
+an attitude indicator.
+an altimeter.
+a vertical speed indicator.
+a turn and bank indicator.
+a time piece.
+a heading indicator</qtext>
+	<answers>
+		<correct>1</correct>.
+		
+		
+		<answer1> A, C, F.</answer1>
+		<answer2> A, B, G.</answer2>
+		<answer3> A, C, D, E, F.</answer3>
+		<answer4> B, D, E, G.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.01</number>
+	<qtext>If cleared for take-off immediately following the very low approach and overshoot of a large aircraft, the pilot should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> take off immediately otherwise the trailing vortices will descend into the flight path.</answer1>
+		<answer2> taxi to position on the runway and wait until it is considered safe to take off.</answer2>
+		<answer3> decline take-off clearance and inform ATC of the reason for non-acceptance.</answer3>
+		<answer4> wait for 2 minutes after the large aircraft has passed then take off.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.02</number>
+	<qtext>The controller offers the option for a take-off from a runway intersection. The pilot must be aware that</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> the remaining runway length will not be stated by the controller.</answer1>
+		<answer2> it is the pilot’s responsibility to ensure that the remaining runway length is sufficient for takeoff.</answer2>
+		<answer3> the controller will ensure that the remaining runway length is sufficient for take-off.</answer3>
+		<answer4> noise abatement procedures have been cancelled.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.03</number>
+	<qtext>A pilot requests an intersection take-off from ATC. If authorized,</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> the controller will always give the remaining runway length.</answer1>
+		<answer2> the controller will ensure that the remaining runway length is sufficient for take-off.</answer2>
+		<answer3> it is the pilot’s responsibility to ensure that the remaining runway length is sufficient for takeoff.</answer3>
+		<answer4> any noise abatement procedures for the runway are automatically cancelled.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.04</number>
+	<qtext>When an arriving aircraft is cleared “to the circuit”, the pilot should interpret this to mean join the circuit</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> on the downwind leg at circuit height.</answer1>
+		<answer2> from the upwind side of the runway in all cases.</answer2>
+		<answer3> on base leg if convenient.</answer3>
+		<answer4> on final for a straight in approach.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.05</number>
+	<qtext>When a NORDO aircraft crosses an airport for the purpose of obtaining landing information it should maintain</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> circuit height.</answer1>
+		<answer2> 1,000 feet above circuit height.</answer2>
+		<answer3> at least 2,000 feet AGL.</answer3>
+		<answer4> at least 500 feet above circuit height.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.06</number>
+	<qtext>An aircraft is “cleared to the circuit” where a left hand circuit is in effect. Without further approval from ATC a right turn may be made to</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> join the final leg.</answer1>
+		<answer2> join the base leg.</answer2>
+		<answer3> join crosswind or a partial right turn to join the downwind leg.</answer3>
+		<answer4> descend on the downwind leg.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.07</number>
+	<qtext>When instructed to continue an approach to a runway which is clear of traffic, what action should the pilot take if no landing clearance is received?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Circle 360° to the left.</answer1>
+		<answer2> Circle 360° in the direction of the circuit.</answer2>
+		<answer3> Complete the landing.</answer3>
+		<answer4> Request landing clearance.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.08</number>
+	<qtext>A NOTAM has been published for an airport, which is 400 feet ASL, stating the circuit height is 1,500 feet ASL. When the ceiling is 1,000 overcast and the visibility is 3 miles, the circuit height in controlled airspace should be</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 500 feet below the cloud base.</answer1>
+		<answer2> 1,500 feet ASL.</answer2>
+		<answer3> 1,100 feet above the airport elevation.</answer3>
+		<answer4> 1,000 feet above the airport elevation.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.09</number>
+	<qtext>When the reported ceiling is 1,000 feet overcast and visibility is 3 miles, to remain VFR, an aircraft cleared to the circuit must join</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> as high as possible without entering cloud.</answer1>
+		<answer2> at 500 feet below cloud base.</answer2>
+		<answer3> at 700 feet AGL.</answer3>
+		<answer4> in accordance with Special VFR.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.10</number>
+	<qtext>Aircraft flying VFR normally join the circuit at 1,000 feet AAE. This may not always be possible because of</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the possibility of a “straight in” clearance to the airport in which case the final leg would normally be entered at less than 1,000 feet.</answer1>
+		<answer2> the existence of a NOTAM which provides for a different circuit altitude.</answer2>
+		<answer3> weather conditions which may necessitate a circuit height lower than 1,000 feet.</answer3>
+		<answer4> the existence of any of the above circumstances.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.11</number>
+	<qtext>A pilot on final approach is requested by ATC to reduce airspeed. The pilot should</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> comply, giving due consideration to safe minimum manoeuvring speed of the aircraft.</answer1>
+		<answer2> acknowledge transmission and execute a 360° turn.</answer2>
+		<answer3> overshoot and rejoin the circuit.</answer3>
+		<answer4> reduce airspeed well below normal approach speed range.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.12</number>
+	<qtext>A pilot is cleared to land but is concerned about the high crosswind component. The pilot should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> use full flaps and approach at a reduced speed.</answer1>
+		<answer2> alter heading and land on another runway which is more into wind.</answer2>
+		<answer3> overshoot and request an into-wind runway.</answer3>
+		<answer4> continue the approach and land as the clearance must be obeyed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.13</number>
+	<qtext>A pilot on a VFR flight is being vectored by ATC towards an extensive unbroken layer of cloud. The responsibility for remaining VFR rests with</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the radar operator.</answer1>
+		<answer2> ATC since the flight is designated VFR.</answer2>
+		<answer3> ATC since the cloud is visible on radar.</answer3>
+		<answer4> the pilot.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.14</number>
+	<qtext>A student pilot on a VFR flight has been given a radar vector by ATC. Ahead, at a lower altitude, is a solid overcast cloud condition. The pilot should</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> climb above the cloud and fly “VFR over the top”.</answer1>
+		<answer2> alter heading as necessary to remain VFR and advise ATC.</answer2>
+		<answer3> maintain heading and altitude as it is an ATC clearance.</answer3>
+		<answer4> maintain heading and altitude because ATC knows of the cloud and will issue further instructions.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.15</number>
+	<qtext>An aircraft on a Special VFR flight has been cleared for a “straight in” approach. Because of low ceiling and poor visibility, the pilot is concerned about the exact location of a radio mast in the vicinity. Avoiding this obstruction is the responsibility</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> of the pilot.</answer1>
+		<answer2> of the tower controller as the controller is aware of the obstruction.</answer2>
+		<answer3> of ATC as the pilot has been given Special VFR clearance.</answer3>
+		<answer4> shared equally by the pilot and the controller.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.16</number>
+	<qtext>A pilot on a Special VFR flight has been cleared to the circuit. Ahead, at a lower altitude, is a solid layer of stratus cloud. Remaining clear of cloud is the responsibility of</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the tower controller as it is within a Control Zone.</answer1>
+		<answer2> ATC because the weather is below VFR.</answer2>
+		<answer3> the pilot and ATC.</answer3>
+		<answer4> the pilot.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.17</number>
+	<qtext>A pilot on a VFR flight in Class C airspace is advised by ATC to maintain a specific heading. In the pilot’s opinion, this heading will cause conflict with another aircraft. The pilot should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> always change altitude as required to avoid the other aircraft.</answer1>
+		<answer2> maintain the specified heading to comply with the CARs.</answer2>
+		<answer3> alter heading to avoid the other aircraft and advise ATC.</answer3>
+		<answer4> maintain the specified heading as separation will be provided by the controller.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.18</number>
+	<qtext>Unless ATC instructs otherwise, pilots operating VFR shall select transponder code 1200 when flying at or below ..... feet ASL and code ..... when flying above that altitude.</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 12,500, 1400.</answer1>
+		<answer2> 12,500, 1300.</answer2>
+		<answer3> 10,000, 1400.</answer3>
+		<answer4> 10,000, 1300.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.19</number>
+	<qtext>Pilots shall activate the transponder “ident” feature</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> before entering control zones.</answer1>
+		<answer2> only when so instructed by ATC.</answer2>
+		<answer3> before every change of altitude.</answer3>
+		<answer4> after every change of an assigned code.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.20</number>
+	<qtext>The holder of a student pilot permit may for the sole purpose of the holder’s own flight training act as PIC of an aircraft</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> only when accompanied by a flight instructor.</answer1>
+		<answer2> by day and night and authorized by a supervising flight instructor.</answer2>
+		<answer3> by day only and authorized by a supervising flight instructor.</answer3>
+		<answer4> while carrying passengers.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.21</number>.
+	
+	
+	<qtext> The PIC of an aircraft shall comply with any light signals or ground marking prescribed in the CARs</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> only while in class C airspace if they are part of an ATC clearance.</answer1>
+		<answer2> only while in a Control Zone if they are part of an ATC instruction.</answer2>
+		<answer3> at all times.</answer3>
+		<answer4> at all times provided safety is not jeopardized.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.22</number>
+	<qtext>Before setting out on any VFR flight, a pilot is required to</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> read all weather reports received from stations within 100 miles of destination.</answer1>
+		<answer2> file a flight itinerary.</answer2>
+		<answer3> be familiar with all available information appropriate to the flight.</answer3>
+		<answer4> obtain an ATC clearance.</answer4>
+	</answers>
+</question>
+<question>
+	<number>6.23</number>
+	<qtext>Terminal airspace dimensions and VHF sector frequencies for certain high density traffic airports in Canada are shown</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> in the Designated Airspace Handbook and the TC AIM.</answer1>
+		<answer2> on the VTA chart and in the CFS.</answer2>
+		<answer3> on the VTA and VNC charts.</answer3>
+		<answer4> in the CFS and on the VNC chart.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.01</number>
+	<qtext>Avoiding wake turbulence is</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> the sole responsibility of ATC.</answer1>
+		<answer2> the responsibility of the pilot, only when advised by ATC of the possibility of wake turbulence.</answer2>
+		<answer3> a responsibility shared by both the pilot and ATC.</answer3>
+		<answer4> the sole responsibility of the pilot.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.02</number>
+	<qtext>Hazardous wake turbulence caused by aircraft in still air</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> dissipates immediately.</answer1>
+		<answer2> dissipates rapidly.</answer2>
+		<answer3> may persist for 5 minutes or more.</answer3>
+		<answer4> persists indefinitely.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.03</number>
+	<qtext>Which response is most correct with respect to wake turbulence?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Wing tip vortices are carried by the ambient wind.</answer1>
+		<answer2> Wing tip vortices have a circular and downward motion.</answer2>
+		<answer3> Wake turbulence exists behind all aeroplanes and helicopters in flight.</answer3>
+		<answer4> All of the above are correct.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.04</number>
+	<qtext>The wing tip vortices generated by a heavy aeroplane can cause a lighter aircraft encountering them to</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> go out of control.</answer1>
+		<answer2> continue descent even when maximum power is applied.</answer2>
+		<answer3> sustain structural damage.</answer3>
+		<answer4> experience any of the above situations.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.05</number>
+	<qtext>During the two minutes after the passage of a heavy aeroplane in cruising flight, hazardous wing tip vortices will</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> dissipate completely.</answer1>
+		<answer2> dissipate rapidly.</answer2>
+		<answer3> dissipate very slowly.</answer3>
+		<answer4> remain at cruising altitude.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.06</number>
+	<qtext>The pilot of a light aircraft on final approach close behind a heavier aircraft should plan the approach to land</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> beyond the touchdown point of the other aircraft.</answer1>
+		<answer2> prior to the touchdown point of the other aircraft.</answer2>
+		<answer3> at the touchdown point of the other aircraft.</answer3>
+		<answer4> to the right or left of the touchdown point of the other aircraft.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.08</number>
+	<qtext>Wake turbulence is produced by</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> heavy aeroplanes only, regardless of their speed.</answer1>
+		<answer2> turbo-jet powered aircraft only.</answer2>
+		<answer3> fast moving aeroplanes only, regardless of their weight.</answer3>
+		<answer4> all fixed and rotary wing aircraft.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.09</number>
+	<qtext>Wake turbulence caused by a departing large aeroplane begins</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> before rotation.</answer1>
+		<answer2> with rotation.</answer2>
+		<answer3> after becoming airborne.</answer3>
+		<answer4> with full power application.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.10</number>
+	<qtext>Wake turbulence caused by a departing aeroplane is most severe immediately</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> before rotation.</answer1>
+		<answer2> following take-off.</answer2>
+		<answer3> above its flight path.</answer3>
+		<answer4> following full power application.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.11</number>
+	<qtext>Which statement concerning wing tip vortices is false?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Vortices normally settle below and behind the aircraft.</answer1>
+		<answer2> With a light crosswind, one vortex can remain stationary over the ground for some time.</answer2>
+		<answer3> Lateral movement of vortices, even in a no wind condition, may place a vortex core over a parallel runway.</answer3>
+		<answer4> Vortices are caused directly by ‘jet wash’.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.12</number>
+	<qtext>Wake turbulence will be greatest when generated by an aeroplane which is</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> heavy, landing configuration and slow speed.</answer1>
+		<answer2> heavy, clean configuration and slow speed.</answer2>
+		<answer3> light, clean configuration and high speed.</answer3>
+		<answer4> heavy, take-off configuration and slow speed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.13</number>
+	<qtext>A helicopter in forward flight produces hazardous vortices</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> which rise above the helicopter.</answer1>
+		<answer2> similar to wing tip vortices.</answer2>
+		<answer3> which remains at the same level as the helicopter.</answer3>
+		<answer4> ahead of the helicopter.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.14</number>
+	<qtext>Which statement concerning vortices caused by helicopters is correct?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> Helicopter vortices are generally weak and dissipate rapidly.</answer1>
+		<answer2> The size and weight of the helicopter has a direct influence on the intensity of the vortices.</answer2>
+		<answer3> Helicopter vortices are less intense than the vortices of an aeroplane of the same weight.</answer3>
+		<answer4> Wind does not influence the movement of vortices generated by a helicopter in hovering flight.</answer4>
+	</answers>
+</question>
+<question>
+	<number>7.15</number>
+	<qtext>What effect would a light crosswind have on the wing tip vortices generated by a large aeroplane that had just taken off? A light crosswind</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> could cause one vortex to remain over the runway for some time.</answer1>
+		<answer2> would rapidly dissipate the strength of both vortices.</answer2>
+		<answer3> would rapidly clear the runway of all vortices.</answer3>
+		<answer4> would not affect the lateral movement of the vortices.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.01</number>
+	<qtext>A flight crew member aware of being under a physical disability that might invalidate licence issue or renewal shall</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> so advise the Minister.</answer1>
+		<answer2> not commence a flight as a crew member.</answer2>
+		<answer3> forward the licence to the Regional Aviation Medical Officer.</answer3>
+		<answer4> fly as crew member only if a back-up member is available.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.02</number>
+	<qtext>What is the recommended treatment for hyperventilation below 8,000 feet?</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> Increase the depth of breathing.</answer1>
+		<answer2> Hold the breath and perform a Valsalva manoeuvre.</answer2>
+		<answer3> Slow the breathing rate to below 12 times per minute.</answer3>
+		<answer4> Increase oxygen flow rates.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.03</number>
+	<qtext>Damage to the ear drum in flight is most likely to occur</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> during a climb.</answer1>
+		<answer2> during a descent.</answer2>
+		<answer3> when using supplementary oxygen.</answer3>
+		<answer4> after SCUBA diving.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.04</number>
+	<qtext>Clearing the ears on a rapid descent may be assisted by</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> swallowing.</answer1>
+		<answer2> opening the mouth widely or yawning.</answer2>
+		<answer3> a Valsalva manoeuvre.</answer3>
+		<answer4> all of the above.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.05</number>
+	<qtext>Flight crew members who require decompression stops on the way to the surface when SCUBA diving should not fly for</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> 4 hours.</answer1>
+		<answer2> 8 hours.</answer2>
+		<answer3> 12 hours.</answer3>
+		<answer4> 24 hours.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.06</number>
+	<qtext>With regard to fatigue, which statement is correct according to the information given under the “Medical Information” section of the TC AIM?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> Financial or family problems do not influence tolerance to fatigue.</answer1>
+		<answer2> Fatigue slows reaction time and causes foolish inattentive errors.</answer2>
+		<answer3> A fatigued person recuperates more quickly as altitude is gained.</answer3>
+		<answer4> A fatigued person must have food immediately before and during flight.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.07</number>
+	<qtext>A pilot who has donated blood should not act as a flight crew member for at least the next</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> 12 hours.</answer1>
+		<answer2> 24 hours.</answer2>
+		<answer3> 36 hours.</answer3>
+		<answer4> 48 hours.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.08</number>
+	<qtext>Any pilot who has had a general anaesthetic should not act as a flight crew member</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> during the next 12 hrs.</answer1>
+		<answer2> during the next 36 hrs.</answer2>
+		<answer3> during the next 48 hrs.</answer3>
+		<answer4> unless advised it is safe to do so by a doctor.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.09</number>
+	<qtext>Any pilot who has had a local anaesthetic for extensive dental procedures should not act as a flight crew member during the next</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 12 hrs.</answer1>
+		<answer2> 24 hrs.</answer2>
+		<answer3> 36 hrs.</answer3>
+		<answer4> 48 hrs.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.10</number>
+	<qtext>Relatively small amounts of alcohol affect tolerance to hypoxia (lack of sufficient oxygen). This tolerance</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> deteriorates with increase of altitude.</answer1>
+		<answer2> improves with increase of altitude.</answer2>
+		<answer3> is not affected by altitude change.</answer3>
+		<answer4> remains constant to 6,000 feet ASL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.11</number>
+	<qtext>Many common drugs such as cold tablets, cough mixtures, antihistamines and other over-thecounter remedies may seriously impair the judgement and co-ordination needed while flying. The safest rule is to</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> read the manufacturer’s warning to ensure that you are aware of possible reactions to such drugs.</answer1>
+		<answer2> take no medicine when you plan to fly, except on the advice of a Civil Aviation Medical Examiner…</answer2>
+		<answer3> allow at least 12 hours between taking any medicine or drugs and flying.</answer3>
+		<answer4> allow at least 8 hours between taking any medicine or drugs and flying.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.12</number>
+	<qtext>The Canadian Medical Certificate of a private pilot 40 years old and over is valid, in Canada, for a period of</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 12 months.</answer1>
+		<answer2> 24 months.</answer2>
+		<answer3> 36 months.</answer3>
+		<answer4> 48 months.</answer4>
+	</answers>
+</question>
+<question>
+	<number>8.13</number>
+	<qtext>The Canadian Medical Certificate of a private pilot under 40 years of age is valid, in Canada, for a period of</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 72 months.</answer1>
+		<answer2> 60 months.</answer2>
+		<answer3> 48 months.</answer3>
+		<answer4> 24 months.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.01</number>
+	<qtext>The amount of fuel and oil carried on board any helicopter at the commencement of a day VFR flight must be sufficient, to provide for foreseeable delays having been considered, to fly to the destination aerodrome,</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> and thereafter for 45 minutes at normal cruising speed.</answer1>
+		<answer2> then to a specified alternate and thereafter for 45 minutes at normal cruising speed.</answer2>
+		<answer3> and thereafter for 20 minutes at normal cruising speed.</answer3>
+		<answer4> then to a specified alternate and thereafter for 20 minutes at normal cruising speed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.02</number>
+	<qtext>The amount of fuel carried on board any propeller-driven aeroplane at the commencement of a day VFR flight must be sufficient, having regard to the meteorological conditions and foreseeable delays that are expected in flight, to fly to the destination aerodrome</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> and then fly for a period of 45 minutes at normal cruising speed.</answer1>
+		<answer2> and then fly for a period of 30 minutes at normal cruising speed.</answer2>
+		<answer3> then to a specified alternate aerodrome and then for a period of 45 minutes at normal cruising speed.</answer3>
+		<answer4> then to a specified alternate aerodrome and then fly for a period of 30 minutes at normal cruising speed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.03</number>
+	<qtext>If a flight plan is not filed, a flight itinerary must be filed</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> for flights proceeding 25 NM or more from the point of origin.</answer1>
+		<answer2> only for flights in sparsely settled areas.</answer2>
+		<answer3> for flights destined to land at aerodromes or places other than the point of origin.</answer3>
+		<answer4> for all flights.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.04</number>
+	<qtext>After landing from a VFR flight for which a flight plan has been filed, the pilot shall report the arrival to the appropriate ATS unit within</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> 15 minutes.</answer1>
+		<answer2> 30 minutes.</answer2>
+		<answer3> 45 minutes.</answer3>
+		<answer4> 60 minutes.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.05</number>
+	<qtext>When there is a deviation from a VFR flight plan, ATC shall be notified of such deviation</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> as soon as possible.</answer1>
+		<answer2> within 10 minutes.</answer2>
+		<answer3> within 30 minutes.</answer3>
+		<answer4> within 60 minutes after landing.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.06</number>
+	<qtext>Where no search and rescue initiation time is specified in a flight itinerary, when shall the pilot report to the “responsible person”?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Within one hour after the expiration of the estimated duration of the flight specified in the flight itinerary.</answer1>
+		<answer2> Within one hour after landing.</answer2>
+		<answer3> Within 24 hours after the expiration of the estimated duration of the flight specified in the flight itinerary.</answer3>
+		<answer4> As soon as practicable after landing but no later than 24 hours after the last reported ETA.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.07</number>
+	<qtext>With regard to a flight itinerary, the “responsible person” means an individual who</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> has agreed to report the aircraft overdue.</answer1>
+		<answer2> is 18 years of age or over.</answer2>
+		<answer3> holds an aeronautical licence.</answer3>
+		<answer4> has agreed to report the arrival of the aircraft.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.08</number>
+	<qtext>Where a VFR flight plan has been filed, an arrival report must be filed by the pilot</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> by advising an ATS unit.</answer1>
+		<answer2> at each intermediate stop and then reopened on take-off.</answer2>
+		<answer3> by parking the aircraft in close proximity to the tower.</answer3>
+		<answer4> except at airports served by a control tower in which case the controller will automatically file the arrival report.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.09</number>
+	<qtext>Estimated elapsed time A to B: 1 hour 15 minutes.
+Estimated stopover time at B: 30 minutes.
+Estimated elapsed time B to C: 1 hour 20 minutes.
+
+Using the above information, what time should be entered in the “Elapsed Time” box of a VFR flight plan?</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> 3 hours 50 minutes.</answer1>
+		<answer2> 3 hours 20 minutes.</answer2>
+		<answer3> 3 hours 05 minutes.</answer3>
+		<answer4> 2 hours 35 minutes.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.10</number>
+	<qtext>When filing a VFR flight plan with an intermediate stop, the total elapsed time to be entered is the total</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> elapsed time for all legs including the duration of the intermediate stop.</answer1>
+		<answer2> elapsed time for all legs, plus the intermediate stop, plus 45 minutes.</answer2>
+		<answer3> flight time for all legs.</answer3>
+		<answer4> elapsed time to the first landing plus intermediate stops.</answer4>
+	</answers>
+</question>
+<question>
+	<number>9.11</number>
+	<qtext>How is an intermediate stop indicated on the flight plan form for a VFR flight?</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> By including duration of the intermediate stop in ‘Elapsed Time’ box as ATC automatically checks time between points.</answer1>
+		<answer2> Same as any VFR flight plan if the intermediate time does not exceed 30 minutes at each point.</answer2>
+		<answer3> By repeating the name of intermediate stop and its duration in the ‘Route’ column.</answer3>
+		<answer4> By simply indicating “Intermediate Stop” in “Other Information” column.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.01</number>
+	<qtext>An ATC instruction</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> must be complied with when received by the pilot providing the safety of the aircraft is not jeopardized.</answer1>
+		<answer2> must be ‘read back’ in full to the controller and confirmed before becoming effective.</answer2>
+		<answer3> is in effect advice provided by ATC and does not require acceptance or formal acknowledgement by the pilot concerned.</answer3>
+		<answer4> is the same as an ATC clearance.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.02</number>
+	<qtext>An ATC clearance</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> is the same as an ATC instruction.</answer1>
+		<answer2> is advice provided by ATC and does not require acceptance or acknowledgement by the PIC.</answer2>
+		<answer3> requires compliance when accepted by the PIC.</answer3>
+		<answer4> must be complied with when received by the PIC.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.03</number>
+	<qtext>A pilot, after accepting a clearance and subsequently finding that all or part of the clearance cannot be complied with, should</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> disregard the clearance.</answer1>
+		<answer2> comply with only the part that is suitable.</answer2>
+		<answer3> comply as best as possible under the circumstances to carry out the clearance and need not say anything to ATC.</answer3>
+		<answer4> comply as best as possible under the circumstances and advise ATC as soon as possible.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.04</number>
+	<qtext>After accepting a clearance and subsequently finding that it cannot be complied with, a pilot should</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> take any immediate action required and advise ATC as soon as possible.</answer1>
+		<answer2> comply as best as possible under the circumstances and say nothing to ATC.</answer2>
+		<answer3> disregard the clearance.</answer3>
+		<answer4> comply with the suitable parts.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.05</number>
+	<qtext>An ATC clearance or instruction is predicated on known traffic only. Therefore, when a pilot is proceeding in accordance with a clearance or instruction</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> ATC is relieved of the responsibility for traffic separation.</answer1>
+		<answer2> the responsibility for traffic separation is divided between ATC and the pilot.</answer2>
+		<answer3> the pilot is not relieved of the responsibility for traffic avoidance.</answer3>
+		<answer4> the pilot is relieved of the responsibility for traffic avoidance.</answer4>
+	</answers>
+</question>
+<question>
+	<number>10.06</number>
+	<qtext>If all or part of an ATC clearance is unacceptable, a pilot should</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> comply as best as possible under the circumstances.</answer1>
+		<answer2> refuse the clearance without giving a reason for refusal.</answer2>
+		<answer3> acknowledge the clearance and read back only the acceptable parts.</answer3>
+		<answer4> refuse the clearance and inform ATC of their intentions.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.01</number>
+	<qtext>In an emergency requiring the use of an ELT, it should be turned on</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> immediately and left on.</answer1>
+		<answer2> at the ETA in the flight plan.</answer2>
+		<answer3> for the first five minutes of each hour UTC.</answer3>
+		<answer4> during daylight hours only to conserve the battery.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.02</number>
+	<qtext>An aircraft’s 121.5 MHz ELT may be switched to transmit for test purposes anytime</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> following a hard landing.</answer1>
+		<answer2> during the first 5 minutes of any hour UTC.</answer2>
+		<answer3> following a component or battery change.</answer3>
+		<answer4> prior to flight and listening on 121.5 MHz.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.03</number>
+	<qtext>Before shutting down you can verify that the aircraft’s ELT is not transmitting by</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> checking that the ELT switch is in the off position.</answer1>
+		<answer2> listening on 121.5 MHz for a signal.</answer2>
+		<answer3> ensuring that the master switch is off.</answer3>
+		<answer4> checking the ELT visual warning light.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.04</number>
+	<qtext>All accidental ELT activations should be reported to the</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> airport manager.</answer1>
+		<answer2> R.C.M.P.</answer2>
+		<answer3> Minister.</answer3>
+		<answer4> nearest ATS unit.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.05</number>
+	<qtext>When an aircraft engine is left running on the ground and no person remains onboard, the aircraft’s movement must be restricted and</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> it must remain in sight of the pilot at all times.</answer1>
+		<answer2> it must not be left unattended.</answer2>
+		<answer3> its gross weight must be below 4,409 LB (2,000 kg).</answer3>
+		<answer4> its control locks must be installed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.06</number>
+	<qtext>When confronted with an approaching thunderstorm, a take-off or landing</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> should be avoided as a sudden wind shift or low level turbulence could cause a loss of control.</answer1>
+		<answer2> is safe if you can see under the thunderstorm through to the other side.</answer2>
+		<answer3> should be avoided unless the take-off can be made away from the thunderstorm.</answer3>
+		<answer4> is safe if the thunderstorm is regarded as light.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.07</number>
+	<qtext>An isolated thunderstorm is in close proximity to your aerodrome of intended landing. You should</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> land giving due consideration to wind shear on final approach.</answer1>
+		<answer2> hold over a known point clear of the thunderstorm until it is well past the aerodrome.</answer2>
+		<answer3> land as quickly as possible.</answer3>
+		<answer4> add one-half the wind gust factor to the recommended landing speed and land.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.08</number>
+	<qtext>The take-off thrust blast danger area includes at least that area extending back from the tail of a medium size jet transport aeroplane for</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 1,200 feet.</answer1>
+		<answer2> 900 feet.</answer2>
+		<answer3> 500 feet.</answer3>
+		<answer4> 450 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.09</number>
+	<qtext>The ground idle blast danger area extends back from the tail of a jumbo jet aeroplane for at least</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> 200 feet.</answer1>
+		<answer2> 450 feet.</answer2>
+		<answer3> 600 feet.</answer3>
+		<answer4> 750 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.10</number>
+	<qtext>The ground idle blast danger area extends back from the tail of a medium size jet aeroplane for at least</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 200 feet.</answer1>
+		<answer2> 450 feet.</answer2>
+		<answer3> 600 feet.</answer3>
+		<answer4> 750 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.11</number>
+	<qtext>The ground idle blast danger area extends back from the tail of an executive jet aeroplane for</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 200 feet.</answer1>
+		<answer2> 450 feet.</answer2>
+		<answer3> 600 feet.</answer3>
+		<answer4> 750 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.12</number>
+	<qtext>A 45 kt blast area can be expected ..... behind the propellers of a large turbo-prop aeroplane during taxi.</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 60 feet.</answer1>
+		<answer2> 80 feet.</answer2>
+		<answer3> 100 feet.</answer3>
+		<answer4> 120 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.13</number>
+	<qtext>ATC advises that simultaneous operations are in progress at an airport. Pilots could expect a clearance to</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> take-off over top of an aircraft on an intersecting runway.</answer1>
+		<answer2> take-off on a specified parallel runway.</answer2>
+		<answer3> land and hold short of an intersecting runway.</answer3>
+		<answer4> land on a specified parallel runway.</answer4>
+	</answers>
+</question>
+<question>
+	<number>11.14</number>
+	<qtext>When issued a clearance to land and hold short of an intersecting runway, pilots</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> shall comply regardless of the circumstances.</answer1>
+		<answer2> may taxi across the intersection after the departing or arriving aircraft has cleared their path.</answer2>
+		<answer3> who inadvertently go through the intersection should immediately do a 180° turn and backtrack to the hold position.</answer3>
+		<answer4> should immediately inform ATC if they are unable to comply.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.01</number>
+	<qtext>ADIZ rules normally apply</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> only to aircraft flying above 12,500 feet.</answer1>
+		<answer2> only to aircraft flying at true airspeeds of 180 kt or more.</answer2>
+		<answer3> only to all southbound aircraft.</answer3>
+		<answer4> to all aircraft.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.02</number>
+	<qtext>When operating in accordance with VFR, aircraft shall be flown</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> clear of aerodrome traffic zones.</answer1>
+		<answer2> clear of control zones.</answer2>
+		<answer3> with visual reference to the surface.</answer3>
+		<answer4> in compliance with all of the above.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.03</number>
+	<qtext>Normally, a helicopter in uncontrolled airspace at less than 1,000 feet AGL may operate during the day in flight visibility which is not less than</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> ½ mile.</answer1>
+		<answer2> 1 mile.</answer2>
+		<answer3> 2 miles.</answer3>
+		<answer4> 3 miles.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.04</number>
+	<qtext>What distance from cloud shall an aircraft maintain when flying below 1,000 feet AGL within uncontrolled airspace?</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> At least 2,000 ft horizontally and 500 ft vertically.</answer1>
+		<answer2> At least 1 mile horizontally and 500 ft vertically.</answer2>
+		<answer3> At least 2 miles horizontally and 500 ft vertically.</answer3>
+		<answer4> Clear of cloud.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.05</number>
+	<qtext>No person shall drop anything from an aircraft in flight</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> which will create a hazard to persons or property.</answer1>
+		<answer2> unless approval has been granted by the Minister.</answer2>
+		<answer3> unless over an authorized jettison area.</answer3>
+		<answer4> unless it is attached to a parachute.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.06</number>
+	<qtext>A person may conduct aerobatic manoeuvres in an aircraft</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> over an airport provided the appropriate frequency is monitored.</answer1>
+		<answer2> over the suburban area of a city above 2,000 feet AGL.</answer2>
+		<answer3> within Class F advisory airspace when visibility is 3 miles or greater.</answer3>
+		<answer4> within Class C airspace when the visibility is 1 mile or greater.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.07</number>
+	<qtext>CARs state that after the consumption of any alcoholic beverage, no person shall act as a crew member of an aircraft within</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 12 hours.</answer1>
+		<answer2> 24hours.</answer2>
+		<answer3> 36 hours.</answer3>
+		<answer4> 48 hours.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.08</number>
+	<qtext>‘Day’ in Canada is that period of time between</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> sunrise and sunset.</answer1>
+		<answer2> one hour before sunrise and one hour after sunset.</answer2>
+		<answer3> the beginning of morning civil twilight and the end of evening civil twilight.</answer3>
+		<answer4> the end of morning civil twilight and the beginning of evening civil twilight.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.09</number>
+	<qtext>‘Night’ in Canada is that period of time between</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> sunset and sunrise.</answer1>
+		<answer2> the beginning of evening civil twilight and the end of morning civil twilight.</answer2>
+		<answer3> one hour after sunset and one hour before sunrise.</answer3>
+		<answer4> the end of evening civil twilight and the beginning of morning civil twilight.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.10</number>
+	<qtext>Formation flying is permitted only if such flights</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> have been pre-arranged by the pilots-in-command.</answer1>
+		<answer2> are conducted above 3,000 feet AGL.</answer2>
+		<answer3> are conducted by commercial pilots.</answer3>
+		<answer4> are led by a pilot whose licence is endorsed for formation flight.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.11</number>
+	<qtext>Flight through active Class F airspace with the designator CYR</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> may be undertaken only by aircraft equipped with two-way radio communication and a transponder.</answer1>
+		<answer2> is restricted to military aircraft operating under the authority of the Minister of National Defence.</answer2>
+		<answer3> will be approved only for aircraft on IFR flight plans under positive radar control.</answer3>
+		<answer4> is permitted only in accordance with permission issued by the user agency.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.12</number>
+	<qtext>Which statement is correct with regard to “advisory airspace”?</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> A transient aircraft entering active advisory airspace shall be equipped with a serviceable transponder.</answer1>
+		<answer2> Non-participating VFR aircraft are encouraged to avoid flight in advisory airspace during active periods specified on aeronautical charts and NOTAM.</answer2>
+		<answer3> Aircraft need to be equipped with a two-way radio to enter active advisory airspace.</answer3>
+		<answer4> Only military aircraft may enter advisory airspace depicted on aeronautical charts.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.13</number>
+	<qtext>Except as provided by CARs, unless taking off, landing or attempting to land, no person shall fly a helicopter over a built-up area or open air assembly of persons except at an altitude that will permit, in the event of an emergency, the landing of the aircraft without creating a hazard to persons or property on the surface, and such altitude shall not be less than ..... above the highest obstacle within a horizontal radius of ..... from the aircraft.</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> 3,000 ft, 1 mile.</answer1>
+		<answer2> 2,000 ft, 1,000 ft.</answer2>
+		<answer3> 1,000 ft, 500 ft.</answer3>
+		<answer4> 500 ft, 500 ft.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.14</number>
+	<qtext>Over non-populous areas or over open water, a pilot must maintain a minimum distance of ..... feet from any person, vessel, vehicle or structure.</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 200</answer1>
+		<answer2> 500</answer2>
+		<answer3> 1,000</answer3>
+		<answer4> 2,000</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.15</number>
+	<qtext>Except for balloons and as provided by CARs, no person shall cause any aircraft to take off or attempt to take off from, land on or attempt to land on, any surface within the built-up area of any city or town unless</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> the aircraft is multi-engined.</answer1>
+		<answer2> all obstacles on approach and departure can be cleared by a minimum of 500 ft.</answer2>
+		<answer3> that surface is an airport or military aerodrome.</answer3>
+		<answer4> noise abatement procedures are followed.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.16</number>
+	<qtext>What is the height AGL above which an aircraft in VFR flight shall be operated to conform with the Cruising Altitudes Order?</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> 700 feet.</answer1>
+		<answer2> 2,200 feet.</answer2>
+		<answer3> 3,000 feet.</answer3>
+		<answer4> 3,500 feet.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.17</number>
+	<qtext>An aircraft cruising VFR in level flight above 3,000 feet AGL on a track of 290°M shall be flown at an</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> even thousand foot altitude.</answer1>
+		<answer2> even thousand plus 500 foot altitude.</answer2>
+		<answer3> odd thousand foot altitude.</answer3>
+		<answer4> odd thousand plus 500 foot altitude.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.18</number>
+	<qtext>The selection of a cruising altitude in the southern domestic airspace should be based on the</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> true track.</answer1>
+		<answer2> magnetic track.</answer2>
+		<answer3> true heading.</answer3>
+		<answer4> magnetic heading.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.19</number>
+	<qtext>Every person who is the holder of any pilot licence or permit shall, on demand, produce such licence or permit for inspection by persons authorized by the Minister, by peace officers and</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> FSS operators.</answer1>
+		<answer2> Transport Canada airport managers.</answer2>
+		<answer3> immigration officers.</answer3>
+		<answer4> all of the above.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.20</number>
+	<qtext>Low Level Airspace is defined as, all airspace</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> extending upwards from 2,200 feet AGL within designated airways.</answer1>
+		<answer2> extending upwards from 1000 feet AGL within designated airways.</answer2>
+		<answer3> extending upwards from the surface of the earth within designated airways.</answer3>
+		<answer4> within the Canadian Domestic Airspace below 18,000 feet ASL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>12.21</number>
+	<qtext>A Control Zone normally is controlled airspace extending upwards from</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> 2,200 feet above the surface of the earth.</answer1>
+		<answer2> 700 feet above the surface of the earth.</answer2>
+		<answer3> the surface of the earth to 3,000 feet.</answer3>
+		<answer4> a specified height above the surface of the earth.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.01</number>
+	<qtext>‘Controlled Airspace’ means all airspace of defined dimensions within which</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> Control Zone regulations are in force.</answer1>
+		<answer2> security regulations are in force.</answer2>
+		<answer3> Special VFR flight only is permitted.</answer3>
+		<answer4> an ATC service is provided.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.02</number>
+	<qtext>When in VFR flight within controlled airspace, a pilot must remain clear of cloud by at least</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> 500 feet vertically and 1 mile horizontally.</answer1>
+		<answer2> 500 feet vertically and 2,000 feet horizontally.</answer2>
+		<answer3> 1,000 feet vertically and 1 mile horizontally.</answer3>
+		<answer4> 1,000 feet vertically and 3 miles horizontally.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.03</number>
+	<qtext>The minimum flight visibility for VFR flight within a low level airway is</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> 1 mile.</answer1>
+		<answer2> 1½ miles.</answer2>
+		<answer3> 2 miles.</answer3>
+		<answer4> 3 miles.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.04</number>
+	<qtext>When in VFR flight within a Control Zone, a pilot must remain clear of cloud by at least</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 500 feet vertically and 2,000 feet horizontally.</answer1>
+		<answer2> 500 feet vertically and 1 mile horizontally.</answer2>
+		<answer3> 1,000 feet vertically and 1 mile horizontally.</answer3>
+		<answer4> 1,000 feet vertically and 3 miles horizontally.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.05</number>
+	<qtext>VFR cross-country pilots wishing to cross through any part of a Class C Control Zone should</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> advise the associated FSS.</answer1>
+		<answer2> monitor the Approach Control frequency.</answer2>
+		<answer3> advise ATC of their intentions and obtain a clearance.</answer3>
+		<answer4> conform with circuit direction at that airport.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.06</number>
+	<qtext>ATC may authorize an aircraft equipped with a functioning two-way radio to transit a Control Zone under day SVFR provided the flight visibility and, when reported, ground visibility, are each not less than</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> ½ mile.</answer1>
+		<answer2> 1 mile.</answer2>
+		<answer3> 2 miles.</answer3>
+		<answer4> 3 miles.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.07</number>
+	<qtext>ATC may authorize a helicopter equipped with a functioning two-way radio to transit a Control Zone under day SVFR where the flight visibility and, when reported, ground visibility are each not less than</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> 1 mile and operated at not less than 500 feet AGL.</answer1>
+		<answer2> ½ mile.</answer2>
+		<answer3> 1 mile.</answer3>
+		<answer4> ½ mile and operated at not less than 500 feet AGL.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.08</number>
+	<qtext>An aircraft flying in accordance with Special VFR would be flying within</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> a Control Zone.</answer1>
+		<answer2> an Aerodrome Traffic Zone.</answer2>
+		<answer3> a Terminal Control Area.</answer3>
+		<answer4> an airway.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.09</number>
+	<qtext>An arriving VFR flight shall make initial radio contact with the control tower</qtext>
+	<answers>
+		<correct>2</correct>
+		<answer1> upon entering an Aerodrome Traffic Zone.</answer1>
+		<answer2> prior to entering a Control Zone.</answer2>
+		<answer3> immediately prior to joining the circuit.</answer3>
+		<answer4> immediately after entering a Control Zone.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.10</number>
+	<qtext>VFR flight within Class B airspace is permitted</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> only when the flight visibility is 5 miles or better.</answer1>
+		<answer2> for all aircraft except gliders and balloons.</answer2>
+		<answer3> if the pilot holds a Class B Airspace Endorsement.</answer3>
+		<answer4> in accordance with an ATC clearance.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.11</number>
+	<qtext>The pilot of an arriving VFR flight shall make initial radio contact with a control tower in Class C airspace</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> immediately after entering the Control Zone.</answer1>
+		<answer2> 10 NM outside the Control Zone.</answer2>
+		<answer3> prior to entering the Control Zone.</answer3>
+		<answer4> immediately prior to joining the circuit.</answer4>
+	</answers>
+</question>
+<question>
+	<number>13.12</number>
+	<qtext>Unless otherwise authorized, a pilot on a VFR flight operating within a Class C terminal control area must</qtext>
+	<answers>
+		<correct>3</correct>
+		<answer1> exit the airspace whenever the weather deteriorates below VFR limits.</answer1>
+		<answer2> establish radio contact with the appropriate ATC unit only when transiting the associated control zone.</answer2>
+		<answer3> establish and maintain radio communication with the appropriate ATC Unit.</answer3>
+		<answer4> contact radar service only when taking off or landing at the major airport concerned.</answer4>
+	</answers>
+</question>
+<question>
+	<number>14.01</number>
+	<qtext>The primary objective of an aviation safety investigation into an aircraft accident or aircraft incident is to</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> apportion blame and liability.</answer1>
+		<answer2> determine the adequacy of insurance regulations.</answer2>
+		<answer3> enforce regulations.</answer3>
+		<answer4> prevent recurrences.</answer4>
+	</answers>
+</question>
+<question>
+	<number>14.02</number>
+	<qtext>Details on civil aviation accident reporting procedures can be found in the</qtext>
+	<answers>
+		<correct>1</correct>
+		<answer1> TC AIM</answer1>
+		<answer2> Canadian Aviation Regulations.</answer2>
+		<answer3> Canada Flight Supplement.</answer3>
+		<answer4> Aviation Safety Manual.</answer4>
+	</answers>
+</question>
+<question>
+	<number>14.03</number>
+	<qtext>When an aircraft accident occurs, the pilot or operator of the aircraft involved shall ensure that the particulars of the accident are reported to the TSB</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> within 7 days by registered mail.</answer1>
+		<answer2> within 24 hours by telephone.</answer2>
+		<answer3> within 48 hours by facsimile.</answer3>
+		<answer4> as soon as possible and by the quickest means available.</answer4>
+	</answers>
+</question>
+<question>
+	<number>14.04</number>
+	<qtext>The TSB shall be notified of a reportable aviation accident when</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> a person sustains serious or fatal injury as a result of being in or coming into direct contact with any part of an aircraft.</answer1>
+		<answer2> an aircraft sustains damage or structural failure adversely affecting performance or flight characteristics and requiring major repair or replacement.</answer2>
+		<answer3> an aircraft is missing or completely inaccessible.</answer3>
+		<answer4> any of the above conditions exist.</answer4>
+	</answers>
+</question>
+<question>
+	<number>14.05</number>
+	<qtext>The TSB considers missing aircraft to be</qtext>
+	<answers>
+		<correct>4</correct>
+		<answer1> a reportable aviation incident.</answer1>
+		<answer2> an occurrence which need not be reported.</answer2>
+		<answer3> an aviation incident which need not be reported.</answer3>
+		<answer4> a reportable aviation accident.</answer4>
+	</answers>
+</question>
